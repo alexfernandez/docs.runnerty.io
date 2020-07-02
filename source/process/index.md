@@ -4,7 +4,7 @@ In Runnerty, processes are calls to the executors. The executors are plugins whi
 
 There is a bunch of executors with different functionalities, have a look at the official [here](../plugins/).
 
-One of the most important executors could be the shell executor [@runnerty/executor-shell](https://github.com/Coderty/runnerty-executor-shell). As it is the Command-Line Interface, with this plugin is possible to execute existing processes that you may already have.
+One of the most important executors could be the shell executor [@runnerty/executor-shell](https://github.com/runnerty/executor-shell). As it is the Command-Line Interface, with this plugin is possible to execute existing processes that you may already have.
 
 ### Identification
 
